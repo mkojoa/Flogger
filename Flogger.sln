@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{65CA86AC-9F05-4B38-9AF1-38830BA047DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flogger.Core", "src\Flogger.Core\Flogger.Core.csproj", "{988042A3-CCEB-4121-B197-CFE396962F3D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{9F5DE5A7-10B0-4436-A758-8623D4959952}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flog.WebApplication", "samples\Flog.WebApplication\Flog.WebApplication.csproj", "{D9BB0610-57B5-4AC1-A372-EC71254BBD86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flog.WebJsTest", "samples\Flog.WebJsTest\Flog.WebJsTest.csproj", "{E2776410-5F0C-4DD4-8386-90EAF57CB49B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{988042A3-CCEB-4121-B197-CFE396962F3D} = {65CA86AC-9F05-4B38-9AF1-38830BA047DF}
+		{D9BB0610-57B5-4AC1-A372-EC71254BBD86} = {9F5DE5A7-10B0-4436-A758-8623D4959952}
+		{E2776410-5F0C-4DD4-8386-90EAF57CB49B} = {9F5DE5A7-10B0-4436-A758-8623D4959952}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{988042A3-CCEB-4121-B197-CFE396962F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988042A3-CCEB-4121-B197-CFE396962F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988042A3-CCEB-4121-B197-CFE396962F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988042A3-CCEB-4121-B197-CFE396962F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9BB0610-57B5-4AC1-A372-EC71254BBD86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9BB0610-57B5-4AC1-A372-EC71254BBD86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9BB0610-57B5-4AC1-A372-EC71254BBD86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9BB0610-57B5-4AC1-A372-EC71254BBD86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2776410-5F0C-4DD4-8386-90EAF57CB49B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2776410-5F0C-4DD4-8386-90EAF57CB49B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2776410-5F0C-4DD4-8386-90EAF57CB49B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2776410-5F0C-4DD4-8386-90EAF57CB49B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

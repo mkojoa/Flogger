@@ -1,0 +1,1 @@
+2021-06-26 20:56:52.763 +00:00 [INF] "2021-06-26T20:56:52.7486014+00:00"Just a button clickPayroll Client JShttps://localhost:5001/Payroll Service APInullnullnullnull{"customValue":"some extra value here"}

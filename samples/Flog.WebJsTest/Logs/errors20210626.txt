@@ -1,0 +1,2 @@
+2021-06-26 20:59:32.324 +00:00 [ERR] "2021-06-26T20:59:32.2310185+00:00"Failed Retrieving api dataPayroll Client JShttps://localhost:5001/Payroll Service APInullnullnull{}
+2021-06-26 20:59:39.834 +00:00 [ERR] "2021-06-26T20:59:39.8340939+00:00"Failed Retrieving api dataPayroll Client JShttps://localhost:5001/Payroll Service APInullnullnull{}
